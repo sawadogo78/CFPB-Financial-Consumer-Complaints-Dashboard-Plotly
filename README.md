@@ -2,14 +2,10 @@ About this project
 My goal for this project is to Analyze complaint volume across time and by product, issue, geographic area, channel Type, see how complaints are resolved, what the company response to each complaints it received from the CFPB. For that I used Pandas, Numpy, Plotly & Dash to build to create the intereactive Dashboard.
 
 Recommended Analysis :
-
-Do consumer complaints show any seasonal patterns?
-
-Which products present the most complaints? What are its most common issues?
-
-How are complaints typically resolved?
-
-Can you learn anything from the complaints with untimely responses?
+1.	Do consumer complaints show any seasonal patterns?
+2.	Which products present the most complaints? What are its most common issues?
+3.	How are complaints typically resolved?
+4.	Can you learn anything from the complaints with untimely responses?
 
 Here are my key findings :
 
