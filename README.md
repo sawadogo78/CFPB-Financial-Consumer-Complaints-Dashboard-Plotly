@@ -15,6 +15,7 @@ Here are my key findings :
 
 CFPB has registred in total 62 516 Consumer complaints on financial products & services for Bank of America from 2017 to 2023.
 The complaints concerns about 9 products and 46 sub-products in 52 US states.
+
 CFPB takes about 1.22 days to send customer complaint to the relevant company from the day it received it
 The timely response rate to complaints is 93.77 %
 From the overall years (2017-2023), we registred more customers complaints in 2022.
